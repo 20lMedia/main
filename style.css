@@ -1602,7 +1602,6 @@ body {
     z-index: 2;
 }
 
-/* Enhanced Services Section */
 .services {
     position: relative;
     overflow: hidden;
@@ -1615,7 +1614,7 @@ body {
     position: relative;
     overflow: hidden;
     padding: 120px 0;
-    background: linear-gradient(135deg, rgba(108, 99, 255, 0.8), rgba(26, 26, 26, 0.7));
+    background: linear-gradient(35deg, rgba(77, 74, 123, 0.8), rgba(0, 0, 0, 0.7));  ;
 }
 
 /* Gradient Background for Contact Section */
@@ -1623,7 +1622,7 @@ body {
     position: relative;
     overflow: hidden;
     padding: 120px 0;
-    background: linear-gradient(135deg, rgba(108, 99, 255, 0.8), rgba(26, 26, 26, 0.7));
+    background: linear-gradient(235deg, rgba(72, 69, 139, 0.8), rgba(26, 26, 26, 0.7));  ;
 }
 
 /* Ensure content stays above overlay */
